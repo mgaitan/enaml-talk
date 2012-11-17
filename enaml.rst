@@ -15,7 +15,7 @@ Características
 - Inspirado en QML
 - Pero usa widgets nativos
 - como Glade pero mantenible!
-- Lenguaje declarativo parecido a... Python!file:///home/tin/lab/enaml-talk/index.html#/
+- Lenguaje declarativo parecido a... Python!
 - ¡MVC fácil!
 
 
